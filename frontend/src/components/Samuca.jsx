@@ -19,7 +19,7 @@ const Samuca = () => {
     return(
         <>
             <div>
-                <h1>Samuca App!</h1>
+                <h1>Samuca Page!</h1>
                 <p>{message}</p>
             </div>
         </>
